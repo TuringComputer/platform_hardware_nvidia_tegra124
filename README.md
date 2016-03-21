@@ -1,0 +1,1 @@
+# platform_hardware_nvidia_tegra124
